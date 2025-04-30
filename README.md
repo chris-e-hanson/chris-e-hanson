@@ -4,11 +4,6 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-####     
-![](https://img.shields.io/badge/Vanilla.js-Green) ![](https://img.shields.io/badge/Typescript.js-Green) ![](https://img.shields.io/badge/React.js-Green) ![](https://img.shields.io/badge/Vue.js-blue) ![](https://img.shields.io/badge/Next.js-blue) ![](https://img.shields.io/badge/Gatsby-blue) ![](https://img.shields.io/badge/Svelte-blue) ![](https://img.shields.io/badge/Node.js-Green) ![](https://img.shields.io/badge/Express.js-Green) ![](https://img.shields.io/badge/Laravel/php-Green) ![](https://img.shields.io/badge/eCommerce-blue) ![](https://img.shields.io/badge/CMS-blue) ![](https://img.shields.io/badge/Shopify-blue) ![](https://img.shields.io/badge/Supabase-blue)
-
-
-<h2 font-weight="bold">Contributions</h2> 
 <br/>
 <h2 font-weight="bold" align="center">
   𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭
