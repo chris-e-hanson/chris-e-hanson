@@ -1,13 +1,57 @@
 <h1 align="center">Hello, I'm Chris Hanson👋</h1>
 
-
 - 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- ⚡ Available for **Projects and Internship Oppurtunities**
+####     
+![](https://img.shields.io/badge/Vanilla.js-Green) ![](https://img.shields.io/badge/Typescript.js-Green) ![](https://img.shields.io/badge/React.js-Green) ![](https://img.shields.io/badge/Vue.js-blue) ![](https://img.shields.io/badge/Next.js-blue) ![](https://img.shields.io/badge/Gatsby-blue) ![](https://img.shields.io/badge/Svelte-blue) ![](https://img.shields.io/badge/Node.js-Green) ![](https://img.shields.io/badge/Express.js-Green) ![](https://img.shields.io/badge/Laravel/php-Green) ![](https://img.shields.io/badge/eCommerce-blue) ![](https://img.shields.io/badge/CMS-blue) ![](https://img.shields.io/badge/Shopify-blue) ![](https://img.shields.io/badge/Supabase-blue)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manankohlii&show_icons=true&locale=en&layout=compact" alt="manankohlii" /></p>
+<h2 font-weight="bold">Contributions</h2> 
+<br/>
+<h2 font-weight="bold" align="center">
+  𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭
+</h2>
+
+<table align="center">
+  <tr>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/html5-40-1175193.png" width="100px"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/css3-11-1175239.png" width="100px"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/sass-13-1175092.png" width="100px"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/bootstrap-226077.png" width="100px"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1-225993.png" width="100px"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/typescript-1-1175078.png" width="100px"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/jquery-7-1175152.png" width="100"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="100"/></td>
+    <td><img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="100"/></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/vuejs-3-1175070.png" width="100"></td>
+    <td><img src="https://javascriptforwp.com/wp-content/uploads/2019/03/badge-gatsby.png" width="100"></td>
+  </tr>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/747px-Svelte_Logo.svg.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/nodejs-2-226035.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/php-99-1175127.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/codeigniter-5-1175246.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/laravel-2-1175146.png" width="100"></td>
+    <td><img src="https://bs-uploads.toptal.io/blackfish-uploads/components/skill_page/content/logo_file/logo/195523/d3js-7ccc10c45b36ba40d8fd3006561289df.png" width="100"></td>
+    <td><img src="https://mui.com/static/logo.png" width="100"></td>
+    <td><img src="https://www.chartjs.org/media/logo-title.svg" width="100"></td>
+    <td><img src="https://image.pngaaa.com/563/3886563-middle.png" width="100"></td>
+    <td><img src="https://raw.githubusercontent.com/github/explore/f4ec5347a36e06540a69376753a7c37a8cb5a136/topics/supabase/supabase.png" width="100"></td>
+    <td><img src="https://images.opencollective.com/strapi/3ec3247/logo/256.png" width="100"></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-3521596-2945040.png"  width="100"/></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/postgresql-9-1175120.png"  width="100"/></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/aws-1-282741.png" alt="mariadb" width="100"/></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/redis-6-1175105.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/nginx-3521604-2945048.png" width="100"/></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/heroku-8-1175211.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/netlify-3521601-2945045.png" width="100"/></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/aws-1869025-1583149.png" width="100"/></td>
+  </tr>
+</table>
