@@ -20,7 +20,6 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/typescript-1-1175078.png" width="100px"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/jquery-7-1175152.png" width="100"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="100"/></td>
-    <td><img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="100"/></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/vuejs-3-1175070.png" width="100"></td>
     <td><img src="https://javascriptforwp.com/wp-content/uploads/2019/03/badge-gatsby.png" width="100"></td>
   </tr>
